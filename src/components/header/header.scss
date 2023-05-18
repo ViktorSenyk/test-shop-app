@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  background-color: rgba(128, 128, 128, 0.76);
+  border-bottom: 2px solid black;
+
+  &__title {
+    font-size: 36px;
+    font-family: 'Rye', cursive;
+  }
+}

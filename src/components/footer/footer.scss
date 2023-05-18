@@ -1,0 +1,32 @@
+// @import '../../scss/variables.scss';
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100px;
+  background-color: rgba(128, 128, 128, 0.76);
+  border-top: 2px solid black;
+}
+
+.social-navigation {
+  &__links {
+    display: flex;
+    list-style: none;
+  }
+
+  &__link a {
+    display: block;
+    text-decoration: none;
+    padding: 10px 15px;
+
+    & img {
+      width: 25px;
+
+      &:hover {
+        filter: brightness(0) invert(0.9);
+      }
+    }
+  }
+}
