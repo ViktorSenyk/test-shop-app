@@ -3,9 +3,7 @@
 
 ( Created with *create-react-app* )
 
-### [Site link](https://inquisitive-platypus-9961df.netlify.app/)
-
-Layout supports mobile, tablet & desktop versions
+### [Site link](https://wonderful-bombolone-c25f3e.netlify.app/)
 
 ### The tech stack is:
 
@@ -14,6 +12,7 @@ Layout supports mobile, tablet & desktop versions
 - [Sass (Scss)](https://sass-lang.com/)
 - [BEM methodology](https://en.bem.info/methodology/)
 - [React](https://reactjs.org/)
+- [Redux](https://redux.js.org/)
 
 ### Author
 
